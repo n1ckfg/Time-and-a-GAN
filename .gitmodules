@@ -1,0 +1,12 @@
+[submodule "ComfyUI-Pix2Pix"]
+	path = ComfyUI-Pix2Pix
+	url = https://github.com/n1ckfg/ComfyUI-Pix2Pix
+[submodule "ComfyUI-VQGAN"]
+	path = ComfyUI-VQGAN
+	url = https://github.com/n1ckfg/ComfyUI-VQGAN
+[submodule "ComfyUI-K2P"]
+	path = ComfyUI-K2P
+	url = https://github.com/n1ckfg/ComfyUI-K2P
+[submodule "ComfyUI-style-transfer-pytorch"]
+	path = ComfyUI-style-transfer-pytorch
+	url = https://github.com/n1ckfg/ComfyUI-style-transfer-pytorch
