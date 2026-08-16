@@ -10,3 +10,6 @@
 [submodule "ComfyUI-style-transfer-pytorch"]
 	path = ComfyUI-style-transfer-pytorch
 	url = https://github.com/n1ckfg/ComfyUI-style-transfer-pytorch
+[submodule "ComfyUI-DeepDream"]
+	path = ComfyUI-DeepDream
+	url = https://github.com/n1ckfg/ComfyUI-DeepDream
