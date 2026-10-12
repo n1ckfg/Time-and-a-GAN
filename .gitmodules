@@ -13,3 +13,6 @@
 [submodule "ComfyUI-DeepDream"]
 	path = ComfyUI-DeepDream
 	url = https://github.com/n1ckfg/ComfyUI-DeepDream
+[submodule "ComfyUI-Dall-E-Mini"]
+	path = ComfyUI-Dall-E-Mini
+	url = https://github.com/n1ckfg/ComfyUI-Dall-E-Mini
