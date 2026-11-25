@@ -16,3 +16,6 @@
 [submodule "ComfyUI-Dall-E-Mini"]
 	path = ComfyUI-Dall-E-Mini
 	url = https://github.com/n1ckfg/ComfyUI-Dall-E-Mini
+[submodule "ComfyUI-Dino-Diffusion"]
+	path = ComfyUI-Dino-Diffusion
+	url = https://github.com/n1ckfg/ComfyUI-Dino-Diffusion
